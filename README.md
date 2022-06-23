@@ -1,4 +1,4 @@
-# escrita_por_fala
+# REJANE 
 # escrevendo textos por comando de voz
 # escrevendo por comando de voz com rejane e mais algumas falas para interagir com o usuario
 
